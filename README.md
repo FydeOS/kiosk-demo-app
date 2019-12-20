@@ -19,6 +19,6 @@ Location: `/usr/local/share/kiosk_app/config.json`
   "Enable" : true
 }
 ```
-AppId: chrome extension (web app) id
-AppPath: relative path to the path of config file.
-Enable: switch between google demo and fyde demo.
+AppId: chrome extension (web app) id \
+AppPath: relative path to the path of config file. \
+Enable: switch between google demo and fyde demo. 
