@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "Configuración de la aplicación"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Nombre de la aplicación tal como aparece en Chrome Web Store y título de la ventana de la aplicación (si se muestra)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "Nombre de la aplicación"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "Mi aplicación de Chrome"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "Volver"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "Descargar"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Habilitar botón de página principal"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "Habilitar botón de reinicio de sesión"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Habilitar botones de navegación de avance y retroceso"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "Habilitar barra de navegación"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "Habilitar botón para volver a cargar"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "Exportar aplicación"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "Avanzar"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "Ir a página principal"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Página inicial de la aplicación también asociada a \"ir al inicio\"."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Página principal"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Permite que la aplicación se ejecute como aplicación del kiosco. Si no se habilita, se ejecuta como una aplicación de Chrome estándar."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Modo kiosco habilitado"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "Reiniciar sesión"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "Volver a cargar"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "Eliminar"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Se mide en grados."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Rotación (solo para Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Tiempo (en minutos) de inactividad de la aplicación antes de borrar los datos de navegación."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Tiempo de espera de inactividad de sesión"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Tiempo (en minutos) de inactividad de la aplicación antes de volver a la página principal. Los datos de navegación no se borran."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Tiempo de espera para volver a la página principal"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "Condiciones de servicio que debe aceptar el usuario antes de utilizar el modo kiosco."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "Condiciones de servicio"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "CONDICIONES DE SERVICIO"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Versión de la aplicación tal como aparece en Chrome Web Store."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "Versión"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "Para empezar, especifica los atributos de la aplicación (como la página principal, los controles de navegación y los tiempos de espera) en la sección Configuración de la aplicación que aparece a continuación. Una vez que hayas introducido la URL de la página principal de la aplicación, este texto se sustituirá por la página principal."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "Cuando hayas terminado, comprime el contenido de la carpeta de la aplicación y exporta la aplicación."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "Si necesitas ayuda, consulta "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Utiliza el Creador de aplicaciones de Chrome para crear una aplicación de kiosco de Chrome."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Te damos la bienvenida al Creador de aplicaciones de Chrome"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Creador de aplicaciones de Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Creador de aplicaciones de Chrome (Beta)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Creador de aplicaciones de Chrome (Dev)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "Ayuda sobre subidas"
+   }
+}

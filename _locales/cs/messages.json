@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "Konfigurace aplikace"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Název aplikace, který se zobrazuje v Internetovém obchodu Chrome, a nadpis v okně aplikace (je-li zobrazen)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "Název aplikace"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "Moje aplikace pro Chrome"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "Zpět"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "Stáhnout"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Povolit tlačítko Domovská stránka"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "Povolit tlačítko Restartovat relaci"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Povolit tlačítka pro navigaci zpět a vpřed"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "Povolit navigační panel"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "Povolit tlačítko Obnovit"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "Exportovat aplikaci"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "Vpřed"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "Přejít domů"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Úvodní stránka aplikace, která je rovněž propojena s přechodem na domovskou stránku."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Domovská stránka"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Umožňuje spustit aplikaci v režimu veřejného terminálu. Pokud nastavení není aktivováno, bude fungovat jako běžná aplikace pro Chrome."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Aktivován režim veřejného terminálu"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "Restartovat relaci"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "Obnovit"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "Odstranit"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Udává se ve stupních."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Otočení (pouze Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Doba nečinnosti aplikace (v minutách), po které se automaticky vymažou údaje o prohlížení."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Časový limit nečinnosti relace"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Doba nečinnosti aplikace (v minutách), po které se automaticky přejde zpět na domovskou stránku. Údaje o prohlížení vymazány nebudou."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Časový limit návratu na domovskou stránku"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "Smluvní podmínky, které uživatel musí přijmout, než začne používat režim veřejného terminálu."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "Smluvní podmínky"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "SMLUVNÍ PODMÍNKY"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Verze aplikace, která se zobrazuje v Internetovém obchodu Chrome."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "Verze"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "Začněte tím, že níže v sekci Konfigurace aplikace zadáte atributy aplikace (např. domovskou stránku, ovládací prvky a časové limity). Až zadáte adresu URL domovské stránky aplikace, tento text bude nahrazen domovskou stránkou."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "Až budete hotovi, zkomprimujte obsah složky aplikace a aplikaci exportujte."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "Nápovědu naleznete zde: "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Pomocí nástroje Vytváření aplikací pro Chrome můžete vytvořit aplikaci v režimu veřejného terminálu pro Chrome."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Vítá vás nástroj Vytváření aplikací pro Chrome"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Vytváření aplikací pro Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Vytváření aplikací pro Chrome (beta)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Vytváření aplikací pro Chrome (dev)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "Nahrát nápovědu"
+   }
+}

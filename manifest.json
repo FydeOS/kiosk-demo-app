@@ -1,0 +1,41 @@
+{
+    "name": "__MSG_appname__",
+    "version": "1.0.2",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvbncWeJpoYoypFKELXTeq9TsrAUXKl/F0161r3mgVAWKQXwmFHjXgyU2NprDYf7homYCIAXLCVESf4cWRGcBq5khjYvtHKjceF3Snd/vbyojGF/a1qCOD7rKv8R/AfKnASsV2cwzlNHlwyfCfmf0qSqKtfjSBa2cU61+Rzr+yipmhSTeVEKqYZTJCcuhoENr4uCduKlNtt0tUS6vupgjjFKWsz46tvCyRlKnf/P4EshIYstwHEUiu64o4SfdYEaXnpE0bQ2gbuD8NKjsfDKKd7deg0ojCBmX2BMBEDpzGAUy9m3ZmIRvMsLhsd+c3zUqiQih9jUPeCXRe32LOvm55wIDAQAB",
+    "manifest_version": 2,
+    "minimum_chrome_version": "37.0.0.0",
+    "permissions": [
+        "webview",
+        "power",
+        "storage",
+        "videoCapture",
+        "geolocation",
+        "pointerLock",
+        "system.display",
+        {
+            "fileSystem": [
+                "write",
+                "retainEntries",
+                "directory"
+            ]
+        },
+        "accessibilityFeatures.read",
+        "accessibilityFeatures.modify"
+    ],
+    "app": {
+        "background": {
+            "scripts": [
+                "js/foam.js",
+                "js/cab.js",
+                "config.js",
+                "background_main.js"
+            ]
+        }
+    },
+    "kiosk_enabled": true,
+    "offline_enabled": true,
+    "default_locale": "en",
+    "icons": {
+        "128": "img/128.png"
+    }
+}

@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "பயன்பாட்டின் உள்ளமைவு"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome இணைய அங்காடியில் தோன்றும் பயன்பாட்டின் பெயர் மற்றும் பயன்பாட்டு சாளரத்தின் தலைப்பு (காட்டப்படின்)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "பயன்பாட்டின் பெயர்"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "எனது Chrome பயன்பாடு"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "திரும்பு"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "பதிவிறக்கு"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "முகப்புப் பொத்தானை இயக்கு"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "அமர்வை மீண்டும் தொடங்கு பொத்தானை இயக்கவும்"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "முன்/பின் வழிசெலுத்தல் பொத்தான்களை இயக்கு"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "வழிசெலுத்தல் பட்டியை இயக்கவும்"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "மீண்டும் ஏற்று பொத்தானை இயக்கவும்"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "பயன்பாட்டை ஏற்று"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "முன் செல்"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "முகப்பிற்குச் செல்"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "'முகப்பிற்குச் செல்லுதல்' என்பதுடன் தொடர்புடைய பக்கமுமான, பயன்பாட்டிற்கான தொடக்கப் பக்கம்."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "முகப்புப்பக்கம்"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "கியோஸ்க் பயன்பாடாக இயங்க, பயன்பாட்டை அனுமதிக்கிறது. இயக்கப்படாவிட்டால், அது வழக்கமான Chrome பயன்பாடாகும்."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "கியோஸ்க் பயன்முறை இயக்கப்பட்டது"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "அமர்வை மீண்டும் தொடங்கு"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "மீண்டும் ஏற்று"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "அகற்று"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "டிகிரியில் அளவிடப்படுகிறது."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "சுழற்சி (Chrome OS இல் மட்டும்)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "உலாவல் தரவு அழிக்கப்படுவதற்கு முன் பயன்பாடு செயல்படா நிலைக்குச் செல்வதற்கான நேரம் (நிமிடங்களில்)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "அமர்வின் செயல்படா நேர முடிவு"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "முகப்புப்பக்கத்திற்குத் திரும்புவதற்கு முன், பயன்பாடு செயல்படா நிலையில் இருக்கு வேண்டிய நேரம் (நிமிடங்களில்). உலாவல் தரவு அழிக்கப்படவில்லை."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "முகப்பிற்குத் திரும்புவதற்கான நேர முடிவு"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "கியோஸ்க்கைப் பயன்படுத்தும் முன் பயனர், ஒப்புதல் அளிக்க வேண்டிய சேவை விதிமுறைகள்."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "சேவை விதிமுறைகள்"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "சேவை விதிமுறைகள்"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome இணைய அங்காடியில் தோன்றும் பயன்பாட்டின் பதிப்பு."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "பதிப்பு"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "(முகப்புப்பக்கம், வழிச்செலுத்துதல் கட்டுப்பாடுகள் மற்றும் நேர முடிவுகள் போன்ற) பயன்பாட்டுப் பண்புக்கூறுகளை, கீழே பயன்பாட்டு உள்ளமைவில் குறிப்பிடுவதன் மூலம் தொடங்கவும். பயன்பாட்டு முகப்புப்பக்கத்தின் URLஐ உள்ளிட்ட பிறகு, இந்த உரையை முகப்புப்பக்கம் மாற்றும்."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "முடித்ததும், பயன்பாட்டுக் கோப்புறையில் உள்ளவற்றை ஜிப் செய்து, பயன்பாட்டை ஏற்றவும்."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "உதவி தேவைப்பட்டால், இதைப் பார்க்கவும்: "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome கியோஸ்க் பயன்பாட்டை உருவாக்க, Chrome பயன்பாடு உருவாக்கியைப் பயன்படுத்தவும்."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome பயன்பாடு உருவாக்கிக்கு வரவேற்கிறோம்"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome பயன்பாடு உருவாக்கி"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome பயன்பாடு உருவாக்கி (பீட்டா)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome பயன்பாடு உருவாக்கி (Dev)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "பதிவேற்ற உதவி"
+   }
+}

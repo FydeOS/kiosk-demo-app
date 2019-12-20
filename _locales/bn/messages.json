@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "অ্যাপ্লিকেশান কনফিগারেশন"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "অ্যাপ্লিকেশানটির নাম, যেটি Chrome ওয়েব দোকান-এ প্রদর্শিত হয় এবং অ্যাপ্লিকেশান উইন্ডোর শিরোনাম (যদি প্রদর্শিত হয়)৷"
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "অ্যাপ্লিকেশান নাম"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "আমার Chrome অ্যাপ্লিকেশান"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "ফিরে যান"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "ডাউনলোড করুন"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "হোম বোতাম সক্ষম করুন"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "অধিবেশন পুনর্সূচনা বোতাম সক্ষম করুন"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "পিছনে যাওয়ার/এগিয়ে যাওয়ার নেভিগেশন বোতামগুলি সক্ষম করুন"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "নেভিগেশন দন্ড সক্ষম করুন"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "পুনঃলোড বোতামটি সক্ষম করুন"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "অ্যাপ্লিকেশান রপ্তানি করুন"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "এগিয়ে যান"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "হোম-এ যান"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "অ্যাপ্লিকেশানের প্রাথমিক পৃষ্ঠা যেটি 'হোমে যাওয়া'-এর সাথেও সংশ্লিষ্ট থাকে৷"
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "হোমপেজ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "অ্যাপ্লিকেশানটিকে একটি কিয়স্ক অ্যাপ্লিকেশান হিসাবে চলার অনুমতি দেয়৷ যদি সক্ষম করা না থাকে, এটি একটি মানক Chrome অ্যাপ্লিকেশান৷"
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "কিয়স্ক মোড সক্ষম করা রয়েছে"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "অধিবেশন পুনর্সূচনা করুন"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "পুনরায় লোড করুন"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "সরান"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ডিগ্রীতে মাপা৷"
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ঘূর্ণন (শুধুমাত্র Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ব্রাউজিং ডেটা সাফ করার আগে অ্যাপ্লিকেশানটির নিষ্ক্রিয় হওয়ার সময় (মিনিটে)৷"
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "নিষ্ক্রিয় অধিবেশনের জন্য নির্ধারিত সময়"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "হোমপেজে ফিরে আসার আগে, অ্যাপ্লিকেশানটির নিষ্ক্রিয় হওয়ার সময়কাল (মিনিটে)৷ ব্রাউজিং ডেটা সাফ করা হবে না৷"
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "হোমে ফেরার জন্য নির্ধারিত সময়"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "কিয়স্ক ব্যবহার করার আগে ব্যবহারকারীকে যে পরিষেবার শর্তাদি অবশ্যই স্বীকার করতে হবে৷"
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "পরিষেবার শর্তাবলী"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "পরিষেবার শর্তাবলী"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "অ্যাপ্লিকেশানটির সংস্করণ, যেটি Chrome ওয়েব দোকান-এ প্রদর্শিত হয়৷"
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "সংস্করণ"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "নীচে অ্যাপ্লিকেশান কনফিগারেশন-এ অ্যাপ্লিকেশান অ্যাট্রিবিউটগুলি (যেমন হোমপেজ, নেভিগেশান নিয়ন্ত্রণ এবং সময় সমাপ্ত) উল্লেখ করে শুরু করুন৷ আপনার অ্যাপ্লিকেশান হোমপেজের URL লেখার পরে, হোমপেজ এটি পাঠ্যটিকে প্রতিস্থাপন করে৷"
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "আপনার করা হয়ে গেলে, অ্যাপ্লিকেশান ফোল্ডারটির সামগ্রীকে zip করুন এবং আপনার অ্যাপ্লিকেশান রপ্তানি করুন৷"
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "যদি আপনার সাহায্যের প্রয়োজন হয়, তবে দেখুন "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "কোনো Chrome কিয়স্ক অ্যাপ্লিকেশান তৈরি করতে Chrome অ্যাপ্লিকেশান নির্মাতা ব্যবহার করুন৷"
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome অ্যাপ্লিকেশান নির্মাতা-এ স্বাগতম"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome অ্যাপ্লিকেশান নির্মাতা"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome অ্যাপ্লিকেশান নির্মাতা (বিটা)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome অ্যাপ্লিকেশান নির্মাতা (ডেভ)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "আপলোড সহায়তা"
+   }
+}

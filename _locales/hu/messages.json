@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "Alkalmazás konfigurációja"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Az alkalmazás neve, ahogyan a Chrome Internetes áruházban és az alkalmazás ablakában (ha látható) megjelenik."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "Alkalmazás neve"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "Saját Chrome-alkalmazás"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "Vissza"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "Letöltés"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Kezdőoldal gomb engedélyezése"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "Munkamenet újraindítása gomb engedélyezése"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Előre- és visszaléptető navigációs gombok engedélyezése"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "Navigációs sáv engedélyezése"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "Újratöltés gomb engedélyezése"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "Alkalmazás exportálása"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "Előre"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "Kezdőoldal"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Az alkalmazás kezdőoldala, egyúttal a „vissza a kezdőoldalra” funkcióhoz társított oldal."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Kezdőoldal"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Lehetővé teszi az alkalmazás számára a kioszkalkalmazásként történő futást. Ha ez nincs engedélyezve, akkor normál Chrome-alkalmazásként fut."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Kioszk mód engedélyezve"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "Munkamenet újraindítása"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "Újratöltés"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "Eltávolítás"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Szögben adható meg."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Elforgatás (csak Chrome OS esetén)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Az az időtartam (percben kifejezve), ameddig tétlen lehet az alkalmazás, mielőtt törölné a böngészési adatokat."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "A munkamenet tétlenségi időkorlátja"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Az az időtartam (percben kifejezve), ameddig tétlen lehet az alkalmazás, mielőtt visszatérne a kezdőoldalra. A böngészési adatok nem törlődnek."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "A kezdőoldalra való visszatérés időkorlátja"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "Az általános szerződési feltételek, amelyeket a felhasználónak el kell fogadnia a kioszk használatának megkezdése előtt."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "Általános Szerződési Feltételek"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEK"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Az alkalmazás verziószáma, ahogyan a Chrome Internetes áruházban megjelenik."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "Verziószám"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "Kezdje az alkalmazás attribútumainak (pl. kezdőoldal, navigációs vezérlők és időkorlátok) megadásával az alábbi Alkalmazás konfigurációja részben. Miután megadja az alkalmazás kezdőoldalának URL-jét, ez a szöveg a kezdőoldalra változik."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "Miután végzett, tömörítse egy ZIP-fájlba az alkalmazásmappa tartalmát, majd exportálja az alkalmazást."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "További információért lásd: "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "A Chrome App Builder használata Chrome-kioszkalkalmazás készítésére."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Üdvözli a Chrome App Builder!"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder (béta)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder (fejlesztői)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "Feltöltési súgó"
+   }
+}

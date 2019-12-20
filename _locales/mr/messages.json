@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "अनुप्रयोग कॉन्फिगरेशन"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome वेब स्टोअर आणि अॅप विंडोमधील शीर्षकामध्ये (दर्शविले असल्यास) जसे दिसते तसे अॅपचे नाव."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "अॅप नाव"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "माझा Chrome अॅप"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "परत जा"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "डाउनलोड करा"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "मुख्यपृष्ठ बटण सक्षम करा"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "सत्र रीस्टार्ट करा बटण सक्षम करा"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "परत/अग्रेषित करा नेव्हिगेशन बटणे सक्षम करा"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "नेव्हिगेशन बार सक्षम करा"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "रीलोड करा बटण सक्षम करा"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "अॅप निर्यात करा"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "पुढे जा"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "मुख्यपृष्ठावर जा"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "'मुख्यपृष्ठावर जाणे' शी देखील संबद्ध असलेल्या अॅपसाठी सुरुवातीचे पृष्ठ."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "मुख्यपृष्ठ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "कियोस्क अॅप म्हणून चालविण्यासाठी अॅपला अनुमती देते. सक्षम केले नसल्यास, हा मानक Chrome अॅप आहे."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "कियोस्क मोड सक्षम केला"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "सत्र रीस्टार्ट करा"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "रीलोड करा"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "काढा"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "अंशांमध्ये मोजलेले."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "फिरणे (केवळ Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ब्राउझिंग डेटा साफ करण्यापूर्वी अॅप निष्क्रिय असण्याची वेळ (मिनिटांमध्ये)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "सत्र निष्क्रिय कालबाह्य"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "मुख्यपृष्ठावर परत येण्यापूर्वी अॅप निष्क्रिय असण्याची वेळ (मिनिटांमध्ये). ब्राउझिंग डेटा साफ केला जात नाही."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "मुख्यपृष्ठावर परत येणे कालबाह्य"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "कियोस्क वापरण्यापूर्वी वापरकर्त्याने स्वीकारणे आवश्यक असलेल्या सेवा अटी."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "सेवा अटी"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "सेवा अटी"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome वेब स्टोअरमध्ये दिसते तशी अॅपची आवृत्ती."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "आवृत्ती"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "खालील अनुप्रयोग कॉन्फिगरेशनमधील अॅप विशेषता निर्दिष्ट करून प्रारंभ करा (जसे की अॅप मुख्यपृष्ठ, नेव्हिगेशन नियंत्रणे आणि कालबाह्य). आपण अॅप मुख्यपृष्ठाची URL प्रविष्ट केल्यानंतर, मुख्यपृष्ठ हा मजकूर पुनर्स्थित करते."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "आपले पूर्ण झाल्यानंतर, अॅप फोल्डरची सामग्री झिप करा आणि आपला अॅप निर्यात करा."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "आपल्याला मदतीची आवश्यकता असल्यास, हे पहा "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome कियोस्क अॅप तयार करण्यासाठी Chrome अ‍ॅप बिल्‍डर वापरा."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome अ‍ॅप बिल्‍डरवर आपले स्वागत आहे"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome अ‍ॅप बिल्‍डर"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome अ‍ॅप बिल्‍डर (बीटा)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome अ‍ॅप बिल्‍डर (डेव्ह)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "मदत अपलोड करा"
+   }
+}

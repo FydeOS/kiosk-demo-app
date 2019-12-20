@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "پیکربندی برنامه کاربردی"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "نام برنامه به صورتی که در «فروشگاه وب Chrome» نشان داده می‌شود و عنوان در پنجره برنامه (در صورت نمایش)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "نام برنامه"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "برنامه Chrome من"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "رفتن به قبلی"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "دانلود"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "فعال کردن دکمه صفحه اصلی"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "فعال کردن دکمه راه‌اندازی مجدد جلسه"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "فعال کردن دکمه‌های پیمایش عقب/جلو"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "فعال کردن نوار پیمایش"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "فعال کردن دکمه تازه‌سازی"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "صادر کردن برنامه"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "رفتن به بعدی"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "رفتن به صفحه اصلی"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "صفحه شروع برنامه که با «رفتن به صفحه اصلی» نیز مرتبط است."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "صفحه اصلی"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "به برنامه‌ها اجازه می‌دهد به عنوان یک برنامه kiosk اجرا شوند. اگر این حالت فعال نباشد، این یک برنامه Chrome استاندارد است."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "حالت کیوسک فعال است."
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "راه‌اندازی مجدد جلسه"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "تازه‌سازی"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "برداشتن"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "اندازه‌گیری بر حسب درجه"
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "چرخش (فقط سیستم عامل Chrome)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "زمان بی‌حرکت بودن برنامه (به دقیقه)، قبل از پاک کردن داده‌های مرور."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "مهلت زمانی بی‌حرکت بودن جلسه"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "زمان بی‌حرکت بودن برنامه (به دقیقه) قبل از بازگشت به صفحه اصلی. داده‌های مرور پاک نمی‌شود."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "مهلت زمانی برای بازگشت به صفحه اصلی"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "شرایط خدماتی که کاربر باید قبل از استفاده از kiosk با آن‌ها موافقت کند."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "شرایط خدمات"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "شرایط خدمات"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "نسخه برنامه به صورتی که در «فروشگاه وب Chrome» نمایش داده می‌شود."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "نسخه"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "با مشخص کردن ویژگی‌های برنامه (مانند صفحه اصلی برنامه، کنترل‌های پیمایش و مهلت‌های زمانی) در قسمت «پیکربندی برنامه» در زیر، شروع به کار کنید. پس از وارد کردن نشانی اینترنتی صفحه اصلی برنامه، صفحه اصلی جایگزین این نوشتار می‌شود."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "در پایان، محتوای پوشه برنامه را فشرده‌سازی کنید و برنامه‌تان را صادر کنید."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "برای دریافت راهنمایی، مراجعه کنید به "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "از «برنامه‌ساز Chrome» برای ایجاد برنامه Chrome Kiosk استفاده کنید."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "به برنامه‌ساز Chrome خوش آمدید"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "برنامه‌ساز ‫Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "برنامه‌ساز ‫Chrome ‫(بتا)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "برنامه‌ساز ‫Chrome (برنامه‌نویس)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "آپلود راهنما"
+   }
+}

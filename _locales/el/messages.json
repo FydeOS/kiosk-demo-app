@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "Διαμόρφωση εφαρμογών"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Το όνομα της εφαρμογής, όπως εμφανίζεται στο Chrome Web Store και ο τίτλος στο παράθυρο της εφαρμογής (αν φαίνεται)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "Όνομα εφαρμογής"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "Η εφαρμογή μου Chrome"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "Επιστροφή"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "Λήψη"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Ενεργοποίηση κουμπιού αρχικής σελίδας"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "Ενεργοποίηση κουμπιού \"Επανεκκίνηση περιόδου σύνδεσης\""
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Ενεργοποίηση κουμπιών πλοήγησης πίσω/εμπρός"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "Ενεργοποίηση γραμμής πλοήγησης"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "Ενεργοποίηση κουμπιού ανανέωσης"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "Εξαγωγή εφαρμογής"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "Μετάβαση εμπρός"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "Μετάβαση στην Αρχική σελίδα"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Αρχική σελίδα για την εφαρμογή, που σχετίζεται επίσης με τη \"Μετάβαση στην Αρχική σελίδα\"."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Αρχική σελίδα"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Επιτρέπει στην εφαρμογή να λειτουργεί ως εφαρμογή kiosk. Εάν δεν ενεργοποιηθεί, αποτελεί κανονική εφαρμογή Chrome."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Ενεργοποιήθηκε η λειτουργία kiosk"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "Επανεκκίνηση περιόδου σύνδεσης"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "Επανάληψη φόρτωσης"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "Κατάργηση"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Υπολογίζεται σε μοίρες."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Περιστροφή (μόνο Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Χρονική διάρκεια (σε λεπτά) για την κατάσταση αδράνειας της εφαρμογής πριν από τη διαγραφή των δεδομένων περιήγησης."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Χρονικό όριο λήξης αδράνειας περιόδου σύνδεσης"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Χρονική διάρκεια (σε λεπτά) για την κατάσταση αδράνειας της εφαρμογής πριν από την αυτόματη επιστροφή στην αρχική σελίδα. Τα δεδομένα περιήγησης δεν θα διαγραφούν"
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Χρονικό όριο λήξης για την επιστροφή στην αρχική σελίδα"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "Οι Όροι Παροχής Υπηρεσιών που πρέπει να αποδεχτεί ο χρήστης πριν χρησιμοποιήσει το kiosk."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "Όροι Παροχής Υπηρεσιών"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "ΟΡΟΙ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Η έκδοση της εφαρμογής όπως εμφανίζεται στο Chrome Web Store."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "Έκδοση"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "Ξεκινήστε καθορίζοντας τα χαρακτηριστικά της εφαρμογής (όπως την αρχική σελίδα της εφαρμογής, τα στοιχεία ελέγχου πλοήγησης και τα χρονικά όρια λήξης) στη διαμόρφωση εφαρμογής παρακάτω. Αφού εισαγάγετε τη διεύθυνση URL της αρχικής σελίδας της εφαρμογής, η αρχική σελίδα αντικαθιστά αυτό το κείμενο."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "Όταν τελειώσετε, συμπιέστε το περιεχόμενο του φακέλου της εφαρμογής και εξαγάγετε την εφαρμογή σας."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "Αν χρειάζεστε βοήθεια, ανατρέξτε στην ενότητα "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Χρησιμοποιήστε το Chrome App Builder για να δημιουργήσετε μια εφαρμογή Chrome Kiosk.\n"
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Καλώς ήρθατε στο Chrome App Builder"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder (Beta)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome App Builder (Dev)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "Βοήθεια μεταφόρτωσης"
+   }
+}

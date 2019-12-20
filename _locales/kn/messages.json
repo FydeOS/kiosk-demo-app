@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "ಅಪ್ಲಿಕೇಶನ್ ಕಾನ್ಫಿಗರೇಶನ್"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome ವೆಬ್ ಅಂಗಡಿ ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ವಿಂಡೋದಲ್ಲಿ (ತೋರಿಸಲಾಗಿದ್ದರೆ) ಶೀರ್ಷಿಕೆಯಂತೆ ಗೋಚರಿಸುವ ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "ನನ್ನ Chrome ಅಪ್ಲಿಕೇಶನ್"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "ಹಿಂದಕ್ಕೆ ಹೋಗಿ"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "ಡೌನ್‌ಲೋಡ್"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "ಮುಖಪುಟ ಬಟನ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "ಮರುಪ್ರಾರಂಭಿಸು ಅವಧಿ ಬಟನ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "ಹಿಂದೆ/ಫಾರ್ವರ್ಡ್ ನ್ಯಾವಿಗೇಷನ್ ಬಟನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "ನ್ಯಾವಿಗೇಷನ್ ಬಾರ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "ಮರುಲೋಡ್ ಬಟನ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "ಅಪ್ಲಿಕೇಶನ್ ರಫ್ತು ಮಾಡಿ"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "ಮುಂದೆ ಹೋಗಿ"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "ಮುಖಪುಟಕ್ಕೆ ಹೋಗಿ"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಪ್ರಾರಂಭದ ಪುಟ. ಅಲ್ಲದೆ, 'ಮುಖಪುಟಕ್ಕೆ ಹೋಗುವಿಕೆ' ಜೊತೆಗೆ ಸಂಯೋಜನೆಗೊಂಡಿರುವ ಪುಟ"
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "ಮುಖಪುಟ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಕಿಯೋಸ್ಕ್ ಅಪ್ಲಿಕೇಶನ್‌ನಂತೆ ರನ್ ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ. ಸಕ್ರಿಯಗೊಳಿಸದಿದ್ದಲ್ಲಿ, ಅದು ಉತ್ತಮ ಮಟ್ಟದ Chrome ಅಪ್ಲಿಕೇಶನ್ ಆಗಿರುತ್ತದೆ."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "ಕಿಯೋಸ್ಕ್ ಮೋಡ್ ಅನ್ನು ಸಕ್ರಿಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "ಅವಧಿ ಮರುಪ್ರಾರಂಭಿಸು"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "ಮರುಲೋಡ್‌"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "ತೆಗೆದುಹಾಕಿ"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ಡಿಗ್ರಿಗಳಲ್ಲಿ ಮಾಪನ ಮಾಡಲಾಗಿದೆ."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ತಿರುಗಿಸುವಿಕೆ (Chrome OS ಮಾತ್ರ)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ಬ್ರೌಸಿಂಗ್ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸುವ ಮೊದಲು ಅಪ್ಲಿಕೇಶನ್ ತಟಸ್ಥವಾಗಿರುವ ಸಮಯ (ನಿಮಿಷಗಳಲ್ಲಿ)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "ಸೆಶನ್‌ನ ತಟಸ್ಥತೆ ಅವಧಿ ಮೀರುವಿಕೆ"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ಮುಖಪುಟಕ್ಕೆ ಹಿಂತಿರುಗುವ ಮೊದಲು ಅಪ್ಲಿಕೇಶನ್ ತಟಸ್ಥವಾಗಿರುವ ಸಮಯ (ನಿಮಿಷಗಳಲ್ಲಿ). ಬ್ರೌಸಿಂಗ್ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿಲ್ಲ."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "ಮುಖಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಲು ಅವಧಿ ಮೀರುವಿಕೆ"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "ಕಿಯೋಸ್ಕ್ ಬಳಸುವುದಕ್ಕೂ ಮೊದಲು ಬಳಕೆದಾರರು ಸೇವಾ ನಿಯಮಗಳನ್ನು ಸಮ್ಮತಿಸಬೇಕು."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "ಸೇವಾ ನಿಯಮಗಳು"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "ಸೇವಾ ನಿಯಮಗಳು"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome ವೆಬ್ ಅಂಗಡಿಯಲ್ಲಿ ಗೋಚರಿಸುವಂತೆ ಅಪ್ಲಿಕೇಶನ್‌ನ ಆವೃತ್ತಿ."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "ಆವೃತ್ತಿ"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "ಈ ಕೆಳಗಿನ ಅಪ್ಲಿಕೇಶನ್ ಕಾನ್ಫಿಗರೇಷನ್‌ನಲ್ಲಿ (ಅಪ್ಲಿಕೇಶನ್ ಮುಖಪುಟ, ನ್ಯಾವಿಗೇಷನ್ ನಿಯಂತ್ರಣಗಳು ಮತ್ತು ಅವಧಿ ಮೀರುವಿಕೆ) ನಂತಹ ಅಪ್ಲಿಕೇಶನ್ ಲಕ್ಷಣಗಳನ್ನು ಸೂಚಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ. ನೀವು ಅಪ್ಲಿಕೇಶನ್ ಮುಖಪುಟದ URL ನಮೂದಿಸಿದ ನಂತರ, ಮುಖಪುಟವು ಈ ಪಠ್ಯವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "ನೀವು ಪೂರ್ಣಗೊಳಿಸಿದಾಗ, ಅಪ್ಲಿಕೇಶನ್ ಫೋಲ್ಡರ್‌ನ ವಿಷಯಗಳನ್ನು ಜಿಪ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ರಫ್ತು ಮಾಡಿ."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "ನಿಮಗೆ ಸಹಾಯದ ಅಗತ್ಯವಿದ್ದರೆ, ಇದನ್ನು ವೀಕ್ಷಿಸಿ "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome ಕಿಯೋಸ್ಕ್ ಅಪ್ಲಿಕೇಶನ್ ರಚಿಸಲು Chrome ಅಪ್ಲಿಕೇಶನ್ ಬಿಲ್ಡರ್ ಬಳಸಿ."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome ಅಪ್ಲಿಕೇಶನ್ ಬಿಲ್ಡರ್‌ಗೆ ಸುಸ್ವಾಗತ"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ಅಪ್ಲಿಕೇಶನ್‌ ಬಿಲ್ಡರ್‌‌"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ಅಪ್ಲಿಕೇಶನ್‌ ಬಿಲ್ಡರ್‌‌ (ಬೀಟಾ)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ಅಪ್ಲಿಕೇಶನ್‌ ಬಿಲ್ಡರ್‌ (ಡೆವಲಪರ್‌)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "ಸಹಾಯ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ"
+   }
+}

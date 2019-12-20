@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "એપ્લિકેશન ગોઠવણી"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome વેબ દુકાનમાં દેખાય છે તે મુજબ એપ્લિકેશનનું નામ અને એપ્લિકેશન વિંડોમાં શીર્ષક (જો દર્શાવવામાં આવે)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "એપ્લિકેશનનું નામ"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "મારી Chrome એપ્લિકેશન"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "પાછા જાઓ"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "ડાઉનલોડ કરો"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "હોમ બટન સક્ષમ કરો"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "સત્ર પુનઃપ્રારંભ કરો બટનને સક્ષમ કરો"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "પાછળ/આગળ નેવિગેશન બટન્સ સક્ષમ કરો"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "નેવિગેશન બાર સક્ષમ કરો"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "ફરીથી લોડ કરો બટન સક્ષમ કરો"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "એપ્લિકેશન નિકાસ કરો"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "આગળ જાઓ"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "હોમ પર જાઓ"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "એપ્લિકેશન માટે પ્રારંભિક પૃષ્ઠ કે જે 'હોમ પર જવું' સાથે પણ સંકળાયેલ છે."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "હોમપેજ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "એપ્લિકેશનને કિઓસ્ક એપ્લિકેશન તરીકે શરૂ થવાની મંજૂરી આપે છે. જો સક્ષમ કરેલ નથી, તો તે એક માનક Chrome એપ્લિકેશન છે."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "કિઓસ્ક મોડ સક્ષમ કર્યું"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "સત્ર પુનઃપ્રારંભ કરો"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "ફરીથી લોડ કરો"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "દૂર કરો"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ડિગ્રીમાં માપવામાં આવે છે."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "પરિભ્રમણ (ફક્ત Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "બ્રાઉઝિંગ ડેટા સાફ કર્યા પહેલાં એપ્લિકેશનનો નિષ્ક્રિય રહેવાનો સમય (મિનિટમાં)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "સત્ર નિષ્ક્રિય સમયસમાપ્તિ"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "હોમપેજ પર પાછા આવતાં પહેલાં એપ્લિકેશનનો નિષ્ક્રિય રહેવા માટેનો સમય (મિનિટમાં). બ્રાઉઝિંગ ડેટા સાફ કરવામાં આવશે નહીં."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "હોમ પર પાછા આવવામાં સમયસમાપ્તિ"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "કિઓસ્કનો ઉપયોગ કરતાં પહેલાં વપરાશકર્તાએ સેવાની શરતો સ્વીકારવી આવશ્યક છે."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "સેવાની શરતો"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "સેવાની શરતો"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome વેબ દુકાનમાં દેખાય છે તે મુજબ એપ્લિકેશનનું સંસ્કરણ."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "સંસ્કરણ"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "નીચે એપ્લિકેશન ગોઠવણીમાં એપ્લિકેશન એટ્રિબ્યુટ્સ (જેમ કે એપ્લિકેશન હોમપેજ, નેવિગેશન કન્ટ્રોલ્સ અને સમયસમાપ્તિ) નો ઉલ્લેખ કરીને પ્રારંભ કરો. તમે એપ્લિકેશન હોમપેજનું URL દાખલ કરી લો તે પછી, હોમપેજ આ ટેક્સ્ટને બદલે છે."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "જ્યારે તમે પૂર્ણ કરી લો, ત્યારે એપ્લિકેશન ફોલ્ડરની સામગ્રીઓ ઝિપ કરો અને તમારી એપ્લિકેશનનો નિકાસ કરો."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "જો તમને સહાયની જરૂર છે, તો આ જુઓ "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome કિઓસ્ક એપ્લિકેશન બનાવવા માટે Chrome એપ્લિકેશન બિલ્ડરનો ઉપયોગ કરો."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome એપ્લિકેશન બિલ્ડર પર આપનું સ્વાગત છે"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome એપ્લિકેશન બિલ્ડર"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome એપ્લિકેશન બિલ્ડર (બીટા)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome એપ્લિકેશન બિલ્ડર (વિકાસકર્તા)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "અપલોડ સહાય"
+   }
+}

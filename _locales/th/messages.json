@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "การกำหนดค่าแอปพลิเคชัน"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "ชื่อของแอปตามที่ปรากฏใน Chrome เว็บสโตร์และชื่อในหน้าต่างแอป (หากแสดง)"
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "ชื่อแอป"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "แอป Chrome ของฉัน"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "ย้อนกลับ"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "ดาวน์โหลด"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "เปิดใช้ปุ่มหน้าแรก"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "เปิดใช้ปุ่มรีสตาร์ทเซสชัน"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "เปิดใช้ปุ่มการนำทางกลับ/ไปข้างหน้า"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "เปิดใช้แถบนำทาง"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "เปิดใช้ปุ่มโหลดซ้ำ"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "ส่งออกแอป"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "ไปข้างหน้า"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "ไปที่หน้าแรก"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "หน้าแรกสำหรับแอป ซึ่งเชื่อมโยงกับปุ่ม \"ไปที่หน้าแรก\" ด้วย"
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "หน้าแรก"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "อนุญาตให้แอปเรียกใช้แอปคีออสก์ หากไม่เปิดใช้ แอปนี้จะเป็นแอป Chrome มาตรฐาน"
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "เปิดใช้โหมดคีออสก์แล้ว"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "รีสตาร์ทเซสชัน"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "โหลดซ้ำ"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "นำออก"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "วัดเป็นองศา"
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "การหมุน (เฉพาะ Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "เวลา (นาที) ที่แอปไม่ได้ใช้งานก่อนที่จะล้างข้อมูลการท่องเว็บ"
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "ระยะหมดเวลาเพื่อเข้าสู่โหมดไม่อยู่ของเซสชัน"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "เวลา (นาที) ที่แอปไม่ได้ใช้งานก่อนที่จะกลับสู่หน้าแรก ไม่มีการล้างข้อมูลการท่องเว็บ"
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "ระยะหมดเวลาที่จะกลับหน้าแรก"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "ข้อกำหนดในการให้บริการที่ผู้ใช้จะต้องยอมรับก่อนใช้คีออสก์"
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "ข้อกำหนดในการให้บริการ"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "ข้อกำหนดในการให้บริการ"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "เวอร์ชันของแอปตามที่ปรากฏใน Chrome เว็บสโตร์"
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "เวอร์ชัน"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "เริ่มต้นใช้งานด้วยการระบุแอตทริบิวต์ของแอป (เช่น หน้าหลักของแอป การควบคุมการนำทาง และระยะหมดเวลา) ในการกำหนดค่าแอปพลิเคชันด้านล่างนี้ หลังจากที่คุณป้อน URL หน้าแรกของแอปแล้ว หน้าแรกจะแทนที่ข้อความนี้"
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "เมื่อคุณทำเสร็จแล้ว ให้บีบอัดเนื้อหาของโฟลเดอร์แอปและส่งออกแอปของคุณ"
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "หากคุณต้องการความช่วยเหลือ โปรดดู "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "ใช้เครื่องมือสร้างแอป Chrome เพื่อสร้างแอปคีออสก์ของ Chrome"
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "ยินดีต้อนรับสู่เครื่องมือสร้างแอป Chrome"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "เครื่องมือสร้างแอป Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "เครื่องมือสร้างแอป Chrome (รุ่นเบต้า)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "เครื่องมือสร้างแอป Chrome (รุ่นพัฒนา)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "ความช่วยเหลือในการอัปโหลด"
+   }
+}

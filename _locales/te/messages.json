@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "అనువర్తన కాన్ఫిగరేషన్"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome వెబ్ స్టోర్‌లో కనిపించే మరియు అనువర్తన విండోలో శీర్షికగా ఉండే (చూపబడితే) అనువర్తనం పేరు."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "అనువర్తనం పేరు"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "నా Chrome అనువర్తనం"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "వెనుకకు వెళ్లు"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "డౌన్‌లోడ్ చేయి"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "హోమ్ బటన్‌ను ప్రారంభించండి"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "సెషన్‌ను పునఃప్రారంభించు బటన్‌ను ప్రారంభించండి"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "వెనుకకు/ముందుకు నావిగేషన్ బటన్‌లను ప్రారంభించండి"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "నావిగేషన్ పట్టీని ప్రారంభించండి"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "మళ్లీ లోడ్ చేయి బటన్‌ను ప్రారంభించండి"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "అనువర్తనాన్ని ఎగుమతి చేయి"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "ముందుకు వెళ్లు"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "హోమ్‌కి వెళ్లు"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "'హోమ్‌కి వెళ్లడం'తో కూడా అనుబంధించబడిన అనువర్తనం ప్రారంభ పేజీ"
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "హోమ్‌ పేజీ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "అనువర్తనాన్ని కియోస్క్ అనువర్తనంగా అమలు చేయడానికి అనుమతిస్తుంది. ప్రారంభించకపోతే, ఇది ఒక ప్రామాణిక Chrome అనువర్తనంగా ఉంటుంది."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "కియోస్క్ మోడ్ ప్రారంభించబడింది"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "సెషన్‌ను పునఃప్రారంభించు"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "మళ్లీ లోడ్ చేయి"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "తీసివేయి"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "డిగ్రీల్లో కొలవబడుతుంది."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "భ్రమణం (Chrome OS మాత్రమే)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "బ్రౌజింగ్ డేటాను క్లియర్ చేయడానికి ముందు అనువర్తనం నిష్క్రియంగా ఉండాల్సిన సమయం (నిమిషాల్లో)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "సెషన్ నిష్క్రయమని భావించడానికి వేచి ఉండాల్సిన సమయం"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "హోమ్ పేజీకి తిరిగి వెళ్లడానికి ముందు అనువర్తనం నిష్క్రియంగా ఉండాల్సిన సమయం (నిమిషాల్లో). బ్రౌజింగ్ డేటా క్లియర్ చేయబడదు."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "హోమ్‌కి తిరిగి వెళ్లడానికి ముందు వేచి ఉండాల్సిన సమయం"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "కియోస్క్‌ను ఉపయోగించడానికి ముందు వినియోగదారు తప్పనిసరిగా అంగీకరించాల్సిన సేవా నిబంధనలు."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "సేవా నిబంధనలు"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "సేవా నిబంధనలు"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome వెబ్ స్టోర్‌లో కనిపించే అనువర్తనం సంస్కరణ."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "సంస్కరణ"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "దిగువ అనువర్తనం కాన్ఫిగరేషన్‌లో అనువర్తనం లక్షణాలను (అనువర్తనం హోమ్ పేజీ, నావిగేషన్ నియంత్రణలు మరియు నిష్క్రియ పరిగణన సమయాలు వంటివి) పేర్కొనడం ద్వారా ప్రారంభించండి. మీరు అనువర్తనం హోమ్ పేజీ యొక్క URLను నమోదు చేసిన తర్వాత, హోమ్ పేజీ ఈ వచనాన్ని భర్తీ చేస్తుంది."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "మీరు పూర్తి చేశాక అనువర్తనం ఫోల్డర్ యొక్క కంటెంట్‌లను జిప్ చేసి, మీ అనువర్తనాన్ని ఎగుమతి చేయండి."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "మీకు సహాయం కావాలంటే, ఇది చూడండి "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome కియోస్క్ అనువర్తనం సృష్టించడానికి Chrome అనువర్తన బిల్డర్ ఉపయోగించండి."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome అనువర్తన బిల్డర్‌కి స్వాగతం"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome అనువర్తన బిల్డర్"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome అనువర్తన బిల్డర్ (బీటా)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome అనువర్తన బిల్డర్ (డెవలపర్)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "అప్‌లోడ్ సహాయం"
+   }
+}

@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "تهيئة التطبيق"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "اسم التطبيق كما يظهر في سوق Chrome الإلكتروني والعنوان في نافذة التطبيق (في حالة عرضها)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "اسم التطبيق"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "تطبيق Chrome"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "رجوع"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "تنزيل"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "تمكين زر الصفحة الرئيسية"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "تمكين زر إعادة تشغيل الجلسة"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "تمكين أزرار التنقل إلى الصفحة السابقة/التالية "
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "تمكين شريط التنقل"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "تمكين زر إعادة التحميل"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "تصدير التطبيق"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "انتقال للأمام"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "الرجوع إلى الصفحة الرئيسية"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "الصفحة المبدئية للتطبيق التي يتم ربطها أيضًا \"بالانتقال إلى الصفحة الرئيسية\"."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "الصفحة الرئيسية"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "يسمح بتشغيل التطبيق كتطبيق كشك. وإذا لم يتم تمكينه، فسيعمل كتطبيق Chrome قياسي."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "تمكين وضع الكشك"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "إعادة تشغيل الجلسة"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "إعادة التحميل"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "إزالة"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "قياس بالدرجات"
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "تدوير الشاشة (نظام تشغيل Chrome فقط)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "الوقت (بالدقائق) لبقاء التطبيق في وضع غير نشط قبل مسح بيانات التصفح."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "المهلة قبل اعتبار الجلسة غير نشطة"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "الوقت (بالدقائق) لبقاء التطبيق في وضع غير نشط قبل العودة إلى الصفحة الرئيسية. لن يتم مسح بيانات التصفح."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "مهلة العودة إلى الصفحة الرئيسية"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "بنود الخدمة التي ينبغي للمستخدم قبولها قبل استخدام تطبيق كشك."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "بنود الخدمة"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "بنود الخدمة"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "إصدار التطبيق كما يظهر في سوق Chrome الإلكتروني."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "الإصدار"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "ابدأ تنفيذ الخطوات الأولى بتحديد سمات التطبيقات (مثل الصفحة الرئيسية للتطبيق وعناصر تحكم التنقل والمهلات) من تهيئة التطبيق أدناه. بعد إدخال عنوان URL للصفحة الرئيسية للتطبيق، ستستبدل الصفحة الرئيسية هذا النص."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "عند الانتهاء، اضغط محتويات مجلد التطبيق وصدّر تطبيقك."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "إذا احتجت إلى مساعدة، فراجع "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "استخدام أداة إنشاء تطبيقات Chrome لإنشاء تطبيق كشك من Chrome."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "مرحبًا بك في أداة إنشاء تطبيقات Chrome"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "أداة إنشاء تطبيقات Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "أداة إنشاء تطبيقات Chrome (تجريبي)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": " أداة إنشاء تطبيقات Chrome ‏(مطوّرون)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "مساعدة بشأن التحميل"
+   }
+}

@@ -1,0 +1,166 @@
+{
+  "appname_dev": {
+    "message": "Chrome App Builder (Dev)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome App Builder (Beta)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname": {
+    "message": "Chrome App Builder",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "app_config__app_config__label": {
+    "message": "Configuração do app",
+    "description": "Title for the section of the application that contains new app configuration settings."
+  },
+  "app_config__app_name__label": {
+    "message": "Nome do aplicativo",
+    "description": "Title for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__help": {
+    "message": "Nome do aplicativo, na forma como aparece na Chrome Web Store, e o título na janela do aplicativo (se mostrado).",
+    "description": "Help text for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__placeholder": {
+    "message": "Meu aplicativo do Google Chrome",
+    "description": "Placeholder value for the new application name"
+  },
+  "app_config__version__label": {
+    "message": "Versão",
+    "description": "Title for the application configuration setting that controls the new application version number."
+  },
+  "app_config__version__help": {
+    "message": "Versão do aplicativo, na forma como aparece na Chrome Web Store.",
+    "description": "Help text for the application configuration setting that controls the new application version number."
+  },
+  "app_config__homepage__label": {
+    "message": "Página inicial",
+    "description": "Title for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__homepage__help": {
+    "message": "Página inicial do aplicativo, que também é associada a \"ir para página inicial\".",
+    "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__enable_nav_btns__label": {
+    "message": "Ativar botões de navegação voltar/avançar",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_home_btn__label": {
+    "message": "Ativar botão de página inicial",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_reload_btn__label": {
+    "message": "Ativar botão de recarregar",
+    "description": "Title for the application configuration setting that controls whether to show the reload button"
+  },
+  "app_config__enable_logout_btn__label": {
+    "message": "Ativar botão \"Reiniciar sessão\"",
+    "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')"
+  },
+  "app_config__enable_navigation_bar__label": {
+    "message": "Ativar a barra de navegação",
+    "description": "Title for the application configuration setting that controls whether to show the navigation bar"
+  },
+  "app_config__session_data_timeout_time__label": {
+    "message": "Tempo limite de sessão inativa",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_data_timeout_time__help": {
+    "message": "Tempo (em minutos) em que o aplicativo fica ocioso antes de apagar os dados de navegação.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__label": {
+    "message": "Tempo limite para voltar para a página inicial",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__help": {
+    "message": "Tempo (em minutos) em que o aplicativo fica ocioso antes de retornar para a página inicial. Os dados de navegação não são apagados.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__terms_of_service__label": {
+    "message": "Termos de Serviço",
+    "description": "Title for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__help": {
+    "message": "Termos de Serviço que o usuário precisa aceitar antes de usar o quiosque.",
+    "description": "Help text for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__placeholder": {
+    "message": "TERMOS DE SERVIÇO",
+    "description": "Placeholder for the application configuration setting that determines the terms of service"
+  },
+  "app_config__rotation__label": {
+    "message": "Rotação (só Chrome OS)",
+    "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__rotation__help": {
+    "message": "Medida em graus",
+    "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__kiosk_enabled__label": {
+    "message": "Modo quiosque ativado",
+    "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__kiosk_enabled__help": {
+    "message": "Permite que o aplicativo seja executado como um aplicativo de quiosque. Se essa configuração não está ativada, o aplicativo é padrão do Google Chrome.",
+    "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__export_app__label": {
+    "message": "Exportar aplicativo",
+    "description": "Title for the button that exports the newly configured application"
+  },
+  "app_config__remove_button__title": {
+    "message": "Remover",
+    "description": "Title of the button to perform a remove action"
+  },
+  "app_config__download_button__title": {
+    "message": "Fazer o download",
+    "description": "Title of the button to perform a download action"
+  },
+  "app_config__back_button__title": {
+    "message": "Voltar",
+    "description": "Title of the button to perform a back navigation action"
+  },
+  "app_config__forward_button__title": {
+    "message": "Avançar",
+    "description": "Title of the button to perform a forward navigation action"
+  },
+  "app_config__home_button__title": {
+    "message": "Ir para página inicial",
+    "description": "Title of the button to perform a home navigation action"
+  },
+  "app_config__reload_button__title": {
+    "message": "Recarregar",
+    "description": "Title of the button to perform a reload"
+  },
+  "app_config__logout_button__title": {
+    "message": "Reiniciar sessão",
+    "description": "Title of the button to perform a log out"
+  },
+  "app_welcome_title": {
+    "message": "Bem-vindo ao Chrome App Builder",
+    "description": "Homepage header title"
+  },
+  "app_welcome_text_pt1": {
+    "message": "Comece especificando os atributos do aplicativo (como a página inicial do aplicativo, seus controles de navegação e tempos limite) em \"Configuração do aplicativo\" abaixo. Depois que você insere o URL da página inicial do aplicativo, a página inicial substitui esse texto.",
+    "description": "Homepage welcome text, part 1"
+  },
+  "app_welcome_text_pt2": {
+    "message": "Quando terminar, compacte o conteúdo da pasta do aplicativo e exporte o aplicativo.",
+    "description": "Homepage welcome text, part 2"
+  },
+  "app_welcome_text_pt3": {
+    "message": "Se precisar de ajuda, consulte ",
+    "description": "Homepage welcome text, part 3"
+  },
+  "app_welcome_text_pt4": {
+    "message": "Use o Chrome App Builder para criar um aplicativo quiosque do Google Chrome.",
+    "description": "Homepage welcome text, part 4"
+  },
+  "upload_help_text": {
+    "message": "Ajuda de upload",
+    "description": "Text for small link to the upload help"
+  }
+}

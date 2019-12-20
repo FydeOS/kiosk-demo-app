@@ -1,0 +1,166 @@
+{
+  "appname_dev": {
+    "message": "בונה היישומים של Chrome (פיתוח)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "בונה היישומים של Chrome (ביטא)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname": {
+    "message": "בונה היישומים של Chrome",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "app_config__app_config__label": {
+    "message": "תצורת יישום",
+    "description": "Title for the section of the application that contains new app configuration settings."
+  },
+  "app_config__app_name__label": {
+    "message": "שם יישום",
+    "description": "Title for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__help": {
+    "message": "שם היישום כפי שהוא מופיע בחנות האינטרנט של Chrome ובכותרת בחלון היישום (אם מוצגת).",
+    "description": "Help text for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__placeholder": {
+    "message": "יישום Chrome שלי",
+    "description": "Placeholder value for the new application name"
+  },
+  "app_config__version__label": {
+    "message": "גרסה",
+    "description": "Title for the application configuration setting that controls the new application version number."
+  },
+  "app_config__version__help": {
+    "message": "גרסת היישום כפי שהיא מופיעה בחנות האינטרנט של Chrome.",
+    "description": "Help text for the application configuration setting that controls the new application version number."
+  },
+  "app_config__homepage__label": {
+    "message": "דף הבית",
+    "description": "Title for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__homepage__help": {
+    "message": "דף הפתיחה של היישום המשויך גם ל'מעבר לדף הבית'.",
+    "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__enable_nav_btns__label": {
+    "message": "הפעל את לחצני הניווט 'הקודם'/'הבא'",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_home_btn__label": {
+    "message": "הפעל את לחצן דף הבית",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_reload_btn__label": {
+    "message": "הפעל את לחצן הטעינה מחדש",
+    "description": "Title for the application configuration setting that controls whether to show the reload button"
+  },
+  "app_config__enable_logout_btn__label": {
+    "message": "הפעל את הלחצן לאתחול הפעילות באתר",
+    "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')"
+  },
+  "app_config__enable_navigation_bar__label": {
+    "message": "הפעל את סרגל הניווט",
+    "description": "Title for the application configuration setting that controls whether to show the navigation bar"
+  },
+  "app_config__session_data_timeout_time__label": {
+    "message": "זמן קצוב לתפוגה של פעילות סרק באתר",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_data_timeout_time__help": {
+    "message": "זמן (בדקות) לפעילות סרק של היישום לפני ניקוי של נתוני הדפדפן.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__label": {
+    "message": "זמן קצוב לתפוגה לפני חזרה לדף הבית",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__help": {
+    "message": "זמן (בדקות) לפעילות סרק של היישום לפני חזרה לדף הבית. לא מתבצע ניקוי של נתוני הדפדפן.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__terms_of_service__label": {
+    "message": "תנאים והגבלות",
+    "description": "Title for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__help": {
+    "message": "תנאים והגבלות שהמשתמש צריך לקבל לפני שימוש במצב קיוסק.",
+    "description": "Help text for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__placeholder": {
+    "message": "תנאים והגבלות",
+    "description": "Placeholder for the application configuration setting that determines the terms of service"
+  },
+  "app_config__rotation__label": {
+    "message": "סיבוב (רק מערכת ההפעלה של Chrome)",
+    "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__rotation__help": {
+    "message": "נמדד במעלות.",
+    "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__kiosk_enabled__label": {
+    "message": "מצב קיוסק הופעל",
+    "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__kiosk_enabled__help": {
+    "message": "מאפשר ליישום לפעול כיישום קיוסק. אם לא הופעל, הוא פועל כיישום Chrome רגיל.",
+    "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__export_app__label": {
+    "message": "יצא את היישום",
+    "description": "Title for the button that exports the newly configured application"
+  },
+  "app_config__remove_button__title": {
+    "message": "הסר",
+    "description": "Title of the button to perform a remove action"
+  },
+  "app_config__download_button__title": {
+    "message": "הורד",
+    "description": "Title of the button to perform a download action"
+  },
+  "app_config__back_button__title": {
+    "message": "חזור",
+    "description": "Title of the button to perform a back navigation action"
+  },
+  "app_config__forward_button__title": {
+    "message": "התקדם",
+    "description": "Title of the button to perform a forward navigation action"
+  },
+  "app_config__home_button__title": {
+    "message": "חזור אל דף הבית",
+    "description": "Title of the button to perform a home navigation action"
+  },
+  "app_config__reload_button__title": {
+    "message": "טען מחדש",
+    "description": "Title of the button to perform a reload"
+  },
+  "app_config__logout_button__title": {
+    "message": "אתחל את הפעילות באתר",
+    "description": "Title of the button to perform a log out"
+  },
+  "app_welcome_title": {
+    "message": "ברוך הבא אל בונה היישומים של Chrome",
+    "description": "Homepage header title"
+  },
+  "app_welcome_text_pt1": {
+    "message": "התחל על ידי ציון של תכונות היישום ב'תצורת יישום' בהמשך (לדוגמה, דף הבית של היישום, פקדי הניווט וזמנים קצובים לתפוגה). לאחר הזנת כתובת האתר של דף הבית של היישום, דף הבית יופיע במקום הטקסט הזה.",
+    "description": "Homepage welcome text, part 1"
+  },
+  "app_welcome_text_pt2": {
+    "message": "בסיום, העבר את תוכן תיקיית היישום לקובץ zip ויצא את היישום.",
+    "description": "Homepage welcome text, part 2"
+  },
+  "app_welcome_text_pt3": {
+    "message": "אם אתה זקוק לעזרה, ראה ",
+    "description": "Homepage welcome text, part 3"
+  },
+  "app_welcome_text_pt4": {
+    "message": "השתמש בבונה היישומים של Chrome ליצירת יישום קיוסק של Chrome.",
+    "description": "Homepage welcome text, part 4"
+  },
+  "upload_help_text": {
+    "message": "עזרה בהעלאה",
+    "description": "Text for small link to the upload help"
+  }
+}

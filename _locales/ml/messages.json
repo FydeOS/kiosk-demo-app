@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "അപ്ലിക്കേഷൻ കോൺഫിഗറേഷൻ"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Chrome വെബ് സ്റ്റോറിലും അപ്ലിക്കേഷൻ വിൻഡോയിലും ദൃശ്യമാകുന്ന (കാണിച്ചിട്ടുണ്ടെങ്കിൽ) അപ്ലിക്കേഷൻ പേര്."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "അപ്ലിക്കേഷന്റെ പേര്"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "എന്റെ Chrome അപ്ലിക്കേഷൻ"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "തിരിച്ചു പോവുക"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "ഡൗൺലോഡുചെയ്യുക"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "ഹോം ബട്ടൺ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "'പുനരാരംഭിക്കുക' സെഷൻ ബട്ടൺ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "ബാക്ക്/ഫോർവേർഡ് നാവിഗേഷൻ ബട്ടണുകൾ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "നാവിഗേഷൻ ബാർ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "വീണ്ടും ലോഡുചെയ്യുക ബട്ടൺ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "അപ്ലിക്കേഷൻ എക്സ്‌പോർട്ടുചെയ്യുക"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "മുമ്പോട്ടുപോകുക"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "ഹോമിലേക്ക് പോകുക"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "അപ്ലിക്കേഷനായുള്ള പ്രാരംഭ പേജ് 'ഹോമിലേക്ക് പോകുന്നു' എന്നതുമായും ബന്ധപ്പെടുത്തിയിരിക്കുന്നു."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "ഹോംപേജ്"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "കിയോസ്‌ക് അപ്ലിക്കേഷനായി പ്രവർത്തിക്കാൻ അപ്ലിക്കേഷനെ അനുവദിക്കുന്നു. പ്രവർത്തനക്ഷമമാക്കിയില്ലെങ്കിൽ, അത് ഒരു അടിസ്ഥാന Chrome അപ്ലിക്കേഷൻ ആയിരിക്കും."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "കിയോസ്‌ക് മോഡ് പ്രവർത്തനക്ഷമമാക്കി"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "സെഷൻ പുനരാരംഭിക്കുക"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "വീണ്ടും ലോഡുചെയ്യുക"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "നീക്കംചെയ്യുക"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "ഡിഗ്രികളിൽ അളക്കുന്നു."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "റൊട്ടേഷന്‍ (Chrome OS മാത്രം)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ബ്രൗസിംഗ് ഡാറ്റ മായ്‌ക്കുന്നതിനുമുമ്പ് അപ്ലിക്കേഷൻ നിഷ്‌ക്രിയമായിരിക്കാനുള്ള സമയം (മിനിറ്റിൽ)."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "സെഷൻ നിഷ്‌ക്രിയസമയം കാലഹരണപ്പെടൽ"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "ഹോംപേജിലേക്ക് മടങ്ങുന്നതിനുമുമ്പ് അപ്ലിക്കേഷൻ നിഷ്‌ക്രിയമായിരിക്കാനുള്ള സമയം (മിനിറ്റിൽ). ബ്രൗസിംഗ് ഡാറ്റ മായ്‌ച്ചില്ല."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "ഹോമിലേക്ക് മടങ്ങുന്നതിനുള്ള കാലഹരണപ്പെടൽ"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "കിയോസ്‌ക് ഉപയോഗിക്കുന്നതിനുമുമ്പ് ഉപയോക്താവ് അംഗീകരിക്കേണ്ട സേവന നിബന്ധനകൾ."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "സേവന നിബന്ധനകൾ"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "സേവന നിബന്ധനകൾ"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Chrome വെബ് സ്റ്റോറിൽ ദൃശ്യമാകുന്ന അപ്ലിക്കേഷന്റെ പതിപ്പ്."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "പതിപ്പ്"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "ചുവടെയുള്ള അപ്ലിക്കേഷൻ കോൺഫിഗറേഷനിൽ അപ്ലിക്കേഷൻ ആട്രിബ്യൂട്ടുകൾ (അപ്ലിക്കേഷൻ ഹോംപേജ്, നാവിഗേഷൻ നിയന്ത്രണങ്ങൾ, ടൈംഔട്ടുകൾ എന്നിവ) വ്യക്തമാക്കിക്കൊണ്ട് ആരംഭിക്കുക. നിങ്ങൾ അപ്ലിക്കേഷന്റെ URL നൽകിയശേഷം, ഹോംപേജ് ഈ ടെക്‌സ്റ്റ് മാറ്റി പകരം മറ്റൊന്ന് വയ്‌ക്കുന്നു."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "നിങ്ങൾ ചെയ്‌തുകഴിഞ്ഞാൽ, അപ്ലിക്കേഷൻ ഫോൾഡറിന്റെ ഉള്ളടക്കങ്ങൾ സിപ്പുചെയ്‌ത് അപ്ലിക്കേഷൻ എക്‌സ്‌പോർട്ടുചെയ്യുക."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "സഹായം ആവശ്യമുണ്ടെങ്കിൽ, കാണുക "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Chrome കിയോസ്‌ക് അപ്ലിക്കേഷൻ സൃഷ്‌ടിക്കാൻ Chrome ആപ്പ് ബിൽഡർ ഉപയോഗിക്കുക."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chrome ആപ്പ് ബിൽഡറിലേക്ക് സ്വാഗതം"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ആപ്പ് ബിൽഡർ"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ആപ്പ് ബിൽഡർ (ബീറ്റ)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Chrome ആപ്പ് ബിൽഡർ (ഡവലപ്പർ)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "അപ്‌ലോഡ് സഹായം"
+   }
+}

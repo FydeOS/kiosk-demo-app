@@ -1,0 +1,166 @@
+{
+  "appname_dev": {
+    "message": "Chrome 應用程式製作工具 (開發人員專用)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome 應用程式製作工具 (測試版)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname": {
+    "message": "FydeOS Kiosk Mode 測試應用",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "app_config__app_config__label": {
+    "message": "應用程式設定",
+    "description": "Title for the section of the application that contains new app configuration settings."
+  },
+  "app_config__app_name__label": {
+    "message": "應用程式名稱",
+    "description": "Title for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__help": {
+    "message": "應用程式名稱，會顯示在 Chrome 線上應用程式商店中，亦可顯示為應用程式視窗標題。",
+    "description": "Help text for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__placeholder": {
+    "message": "我的 Chrome 應用程式",
+    "description": "Placeholder value for the new application name"
+  },
+  "app_config__version__label": {
+    "message": "版本",
+    "description": "Title for the application configuration setting that controls the new application version number."
+  },
+  "app_config__version__help": {
+    "message": "應用程式版本，會顯示在 Chrome 線上應用程式商店中。",
+    "description": "Help text for the application configuration setting that controls the new application version number."
+  },
+  "app_config__homepage__label": {
+    "message": "首頁",
+    "description": "Title for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__homepage__help": {
+    "message": "應用程式初始頁面，也是「返回首頁」所指向的頁面。",
+    "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__enable_nav_btns__label": {
+    "message": "啟用上一頁/下一頁導覽按鈕",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_home_btn__label": {
+    "message": "啟用首頁按鈕",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_reload_btn__label": {
+    "message": "啟用重新載入按鈕",
+    "description": "Title for the application configuration setting that controls whether to show the reload button"
+  },
+  "app_config__enable_logout_btn__label": {
+    "message": "啟用重新啟動工作階段按鈕",
+    "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')"
+  },
+  "app_config__enable_navigation_bar__label": {
+    "message": "啟用導覽列",
+    "description": "Title for the application configuration setting that controls whether to show the navigation bar"
+  },
+  "app_config__session_data_timeout_time__label": {
+    "message": "工作階段閒置逾時",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_data_timeout_time__help": {
+    "message": "應用程式閒置多久時間後清除瀏覽資料 (以分鐘計算)。",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__label": {
+    "message": "返回首頁逾時",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__help": {
+    "message": "應用程式閒置多久時間後返回首頁 (以分鐘計算)。系統不會清除瀏覽資料。",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__terms_of_service__label": {
+    "message": "服務條款",
+    "description": "Title for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__help": {
+    "message": "使用者使用 Kiosk 前必須接受的服務條款。",
+    "description": "Help text for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__placeholder": {
+    "message": "服務條款",
+    "description": "Placeholder for the application configuration setting that determines the terms of service"
+  },
+  "app_config__rotation__label": {
+    "message": "旋轉 (僅適用於 Chrome 作業系統)",
+    "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__rotation__help": {
+    "message": "以角度計算。",
+    "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__kiosk_enabled__label": {
+    "message": "已啟用 Kiosk 模式",
+    "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__kiosk_enabled__help": {
+    "message": "啟用後，應用程式會像 Kiosk 應用程式一樣運作。如果未啟用，則依標準 Chrome 應用程式運作方式執行。",
+    "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__export_app__label": {
+    "message": "匯出應用程式",
+    "description": "Title for the button that exports the newly configured application"
+  },
+  "app_config__remove_button__title": {
+    "message": "移除",
+    "description": "Title of the button to perform a remove action"
+  },
+  "app_config__download_button__title": {
+    "message": "下載",
+    "description": "Title of the button to perform a download action"
+  },
+  "app_config__back_button__title": {
+    "message": "上一頁",
+    "description": "Title of the button to perform a back navigation action"
+  },
+  "app_config__forward_button__title": {
+    "message": "下一頁",
+    "description": "Title of the button to perform a forward navigation action"
+  },
+  "app_config__home_button__title": {
+    "message": "返回首頁",
+    "description": "Title of the button to perform a home navigation action"
+  },
+  "app_config__reload_button__title": {
+    "message": "重新載入",
+    "description": "Title of the button to perform a reload"
+  },
+  "app_config__logout_button__title": {
+    "message": "重新啟動工作階段",
+    "description": "Title of the button to perform a log out"
+  },
+  "app_welcome_title": {
+    "message": "歡迎使用 Chrome 應用程式製作工具",
+    "description": "Homepage header title"
+  },
+  "app_welcome_text_pt1": {
+    "message": "首先，請在下方的「應用程式設定」中指定應用程式的各項屬性 (例如應用程式首頁、導覽控制項和逾時設定)。當您輸入應用程式首頁的網址後，首頁就會替換這段文字。",
+    "description": "Homepage welcome text, part 1"
+  },
+  "app_welcome_text_pt2": {
+    "message": "完成設定後，將應用程式資料夾的內容製成壓縮檔，然後匯出您的應用程式。",
+    "description": "Homepage welcome text, part 2"
+  },
+  "app_welcome_text_pt3": {
+    "message": "如需相關說明，請參閱：",
+    "description": "Homepage welcome text, part 3"
+  },
+  "app_welcome_text_pt4": {
+    "message": "使用 Chrome 應用程式製作工具來建立 Chrome Kiosk 應用程式。",
+    "description": "Homepage welcome text, part 4"
+  },
+  "upload_help_text": {
+    "message": "上傳說明",
+    "description": "Text for small link to the upload help"
+  }
+}

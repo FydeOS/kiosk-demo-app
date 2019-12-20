@@ -1,0 +1,166 @@
+{
+   "app_config__app_config__label": {
+      "description": "Title for the section of the application that contains new app configuration settings.",
+      "message": "Cấu hình ứng dụng"
+   },
+   "app_config__app_name__help": {
+      "description": "Help text for the app configuration setting that controls the new application name.",
+      "message": "Tên của ứng dụng khi ứng dụng xuất hiện trong Cửa hàng Chrome trực tuyến và tiêu đề trong cửa sổ ứng dụng (nếu được hiển thị)."
+   },
+   "app_config__app_name__label": {
+      "description": "Title for the app configuration setting that controls the new application name.",
+      "message": "Tên ứng dụng"
+   },
+   "app_config__app_name__placeholder": {
+      "description": "Placeholder value for the new application name",
+      "message": "Ứng dụng Chrome của tôi"
+   },
+   "app_config__back_button__title": {
+      "description": "Title of the button to perform a back navigation action",
+      "message": "Quay lại"
+   },
+   "app_config__download_button__title": {
+      "description": "Title of the button to perform a download action",
+      "message": "Tải xuống"
+   },
+   "app_config__enable_home_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Bật nút trang chủ"
+   },
+   "app_config__enable_logout_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')",
+      "message": "Bật nút Khởi động lại phiên"
+   },
+   "app_config__enable_nav_btns__label": {
+      "description": "Title for the application configuration setting that controls whether to show navigation buttons",
+      "message": "Bật nút điều hướng tiến/lùi"
+   },
+   "app_config__enable_navigation_bar__label": {
+      "description": "Title for the application configuration setting that controls whether to show the navigation bar",
+      "message": "Bật thanh điều hướng"
+   },
+   "app_config__enable_reload_btn__label": {
+      "description": "Title for the application configuration setting that controls whether to show the reload button",
+      "message": "Bật nút tải lại"
+   },
+   "app_config__export_app__label": {
+      "description": "Title for the button that exports the newly configured application",
+      "message": "Xuất ứng dụng"
+   },
+   "app_config__forward_button__title": {
+      "description": "Title of the button to perform a forward navigation action",
+      "message": "Tiếp tục"
+   },
+   "app_config__home_button__title": {
+      "description": "Title of the button to perform a home navigation action",
+      "message": "Tới trang chủ"
+   },
+   "app_config__homepage__help": {
+      "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Trang đầu cho ứng dụng được liên kết với 'tới trang chủ'."
+   },
+   "app_config__homepage__label": {
+      "description": "Title for the application configuration setting that controls what the new application default homepage URL will be",
+      "message": "Trang chủ"
+   },
+   "app_config__kiosk_enabled__help": {
+      "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Cho phép ứng dụng chạy dưới dạng ứng dụng kiosk. Nếu chưa được bật, đó là Ứng dụng Chrome chuẩn."
+   },
+   "app_config__kiosk_enabled__label": {
+      "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled",
+      "message": "Đã bật chế độ kiosk"
+   },
+   "app_config__logout_button__title": {
+      "description": "Title of the button to perform a log out",
+      "message": "Khởi động lại phiên"
+   },
+   "app_config__reload_button__title": {
+      "description": "Title of the button to perform a reload",
+      "message": "Tải lại"
+   },
+   "app_config__remove_button__title": {
+      "description": "Title of the button to perform a remove action",
+      "message": "Xóa"
+   },
+   "app_config__rotation__help": {
+      "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Tính bằng độ."
+   },
+   "app_config__rotation__label": {
+      "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated",
+      "message": "Góc quay (Chỉ Chrome OS)"
+   },
+   "app_config__session_data_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Thời gian chờ (tính bằng phút) của ứng dụng trước khi xóa dữ liệu duyệt web."
+   },
+   "app_config__session_data_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Hết thời gian chờ phiên"
+   },
+   "app_config__session_timeout_time__help": {
+      "description": "Help text for the application configuration setting that controls the session idle timeout",
+      "message": "Thời gian chờ (tính bằng phút) của ứng dụng trước khi trở về trang chủ. Dữ liệu duyệt web không bị xóa."
+   },
+   "app_config__session_timeout_time__label": {
+      "description": "Title for the application configuration setting that controls the session idle timeout",
+      "message": "Thời gian chờ trở về trang chủ"
+   },
+   "app_config__terms_of_service__help": {
+      "description": "Help text for the application configuration setting that determines the terms of service",
+      "message": "Điều khoản dịch vụ mà người dùng phải chấp nhận trước khi sử dụng kiosk."
+   },
+   "app_config__terms_of_service__label": {
+      "description": "Title for the application configuration setting that determines the terms of service",
+      "message": "Điều khoản dịch vụ"
+   },
+   "app_config__terms_of_service__placeholder": {
+      "description": "Placeholder for the application configuration setting that determines the terms of service",
+      "message": "ĐIỀU KHOẢN DỊCH VỤ"
+   },
+   "app_config__version__help": {
+      "description": "Help text for the application configuration setting that controls the new application version number.",
+      "message": "Phiên bản của ứng dụng khi ứng dụng xuất hiện trong Cửa hàng Chrome trực tuyến."
+   },
+   "app_config__version__label": {
+      "description": "Title for the application configuration setting that controls the new application version number.",
+      "message": "Phiên bản"
+   },
+   "app_welcome_text_pt1": {
+      "description": "Homepage welcome text, part 1",
+      "message": "Bắt đầu bằng cách chỉ định thuộc tính ứng dụng (như trang chủ ứng dụng, điều khiển điều hướng và thời gian chờ) trong Cấu hình ứng dụng bên dưới. Sau khi bạn nhập URL của trang chủ ứng dụng, trang chủ sẽ thay thế văn bản này."
+   },
+   "app_welcome_text_pt2": {
+      "description": "Homepage welcome text, part 2",
+      "message": "Khi bạn hoàn tất, hãy nén nội dung của thư mục ứng dụng và xuất ứng dụng của bạn."
+   },
+   "app_welcome_text_pt3": {
+      "description": "Homepage welcome text, part 3",
+      "message": "Nếu bạn cần trợ giúp, hãy xem "
+   },
+   "app_welcome_text_pt4": {
+      "description": "Homepage welcome text, part 4",
+      "message": "Sử dụng Trình tạo ứng dụng Chrome để tạo ứng dụng kiosk Chrome."
+   },
+   "app_welcome_title": {
+      "description": "Homepage header title",
+      "message": "Chào mừng bạn đến với Trình tạo ứng dụng Chrome"
+   },
+   "appname": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Trình tạo ứng dụng Chrome"
+   },
+   "appname_beta": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Trình tạo ứng dụng Chrome (Beta)"
+   },
+   "appname_dev": {
+      "description": "Title of the Chrome App name. [CHAR LIMIT=44]",
+      "message": "Trình tạo ứng dụng Chrome (Nhà phát triển)"
+   },
+   "upload_help_text": {
+      "description": "Text for small link to the upload help",
+      "message": "Trợ giúp tải lên"
+   }
+}

@@ -1,0 +1,166 @@
+{
+  "appname_dev": {
+    "message": "Chrome-appbygger (utvikler)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome-appbygger (beta)",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname": {
+    "message": "Chrome-appbygger",
+    "description": "Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "app_config__app_config__label": {
+    "message": "Konfigurering",
+    "description": "Title for the section of the application that contains new app configuration settings."
+  },
+  "app_config__app_name__label": {
+    "message": "Navn på appen",
+    "description": "Title for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__help": {
+    "message": "Navnet på appen slik det vises i Chrome Nettmarked og i tittelen i app-vinduet (hvis det vises en tittel).",
+    "description": "Help text for the app configuration setting that controls the new application name."
+  },
+  "app_config__app_name__placeholder": {
+    "message": "Chrome-appen din",
+    "description": "Placeholder value for the new application name"
+  },
+  "app_config__version__label": {
+    "message": "Versjon",
+    "description": "Title for the application configuration setting that controls the new application version number."
+  },
+  "app_config__version__help": {
+    "message": "Versjonen på appen slik den vises i Chrome Nettmarked.",
+    "description": "Help text for the application configuration setting that controls the new application version number."
+  },
+  "app_config__homepage__label": {
+    "message": "Startside",
+    "description": "Title for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__homepage__help": {
+    "message": "Den første siden i appen. Denne siden er også appens «startside».",
+    "description": "Help text for the application configuration setting that controls what the new application default homepage URL will be"
+  },
+  "app_config__enable_nav_btns__label": {
+    "message": "Slå på «Gå fremover»- og «Gå tilbake»-navigasjonsknappene",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_home_btn__label": {
+    "message": "Slå på startsideknappen",
+    "description": "Title for the application configuration setting that controls whether to show navigation buttons"
+  },
+  "app_config__enable_reload_btn__label": {
+    "message": "Slå på «Last inn på nytt»-knappen",
+    "description": "Title for the application configuration setting that controls whether to show the reload button"
+  },
+  "app_config__enable_logout_btn__label": {
+    "message": "Slå på «Start økten på nytt»-knappen",
+    "description": "Title for the application configuration setting that controls whether to show a Logout button (labeled 'Restart session')"
+  },
+  "app_config__enable_navigation_bar__label": {
+    "message": "Slå på navigasjonsraden",
+    "description": "Title for the application configuration setting that controls whether to show the navigation bar"
+  },
+  "app_config__session_data_timeout_time__label": {
+    "message": "Tidsavbrudd for inaktive økter",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_data_timeout_time__help": {
+    "message": "Hvor lenge (i minutter) appen kan være inaktiv før nettleserdataene slettes.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__label": {
+    "message": "Tidsavbrudd for å gå tilbake til startsiden",
+    "description": "Title for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__session_timeout_time__help": {
+    "message": "Hvor lenge (i minutter) appen kan være inaktiv før startsiden vises igjen. Nettleserdataene slettes ikke.",
+    "description": "Help text for the application configuration setting that controls the session idle timeout"
+  },
+  "app_config__terms_of_service__label": {
+    "message": "Vilkår for bruk",
+    "description": "Title for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__help": {
+    "message": "Vilkår for bruk som må godtas av brukeren før kiosken kan brukes.",
+    "description": "Help text for the application configuration setting that determines the terms of service"
+  },
+  "app_config__terms_of_service__placeholder": {
+    "message": "VILKÅR FOR BRUK",
+    "description": "Placeholder for the application configuration setting that determines the terms of service"
+  },
+  "app_config__rotation__label": {
+    "message": "Rotasjon (kun Chrome OS)",
+    "description": "Title for the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__rotation__help": {
+    "message": "Målt i grader.",
+    "description": "Help text the application configuration setting that determines the degree to which the screen should be rotated"
+  },
+  "app_config__kiosk_enabled__label": {
+    "message": "Kioskmodus aktivert",
+    "description": "Title for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__kiosk_enabled__help": {
+    "message": "Gjør det mulig å kjøre appen som en kioskapp. Hvis dette ikke er slått på, er appen en standard Chrome-app.",
+    "description": "Help text for the application configuration setting that determines whether Kiosk mode is enabled"
+  },
+  "app_config__export_app__label": {
+    "message": "Eksportér appen",
+    "description": "Title for the button that exports the newly configured application"
+  },
+  "app_config__remove_button__title": {
+    "message": "Fjern",
+    "description": "Title of the button to perform a remove action"
+  },
+  "app_config__download_button__title": {
+    "message": "Last ned",
+    "description": "Title of the button to perform a download action"
+  },
+  "app_config__back_button__title": {
+    "message": "Gå tilbake",
+    "description": "Title of the button to perform a back navigation action"
+  },
+  "app_config__forward_button__title": {
+    "message": "Gå fremover",
+    "description": "Title of the button to perform a forward navigation action"
+  },
+  "app_config__home_button__title": {
+    "message": "Gå til startsiden",
+    "description": "Title of the button to perform a home navigation action"
+  },
+  "app_config__reload_button__title": {
+    "message": "Last inn på nytt",
+    "description": "Title of the button to perform a reload"
+  },
+  "app_config__logout_button__title": {
+    "message": "Start økten på nytt",
+    "description": "Title of the button to perform a log out"
+  },
+  "app_welcome_title": {
+    "message": "Velkommen til Chrome-appbygger",
+    "description": "Homepage header title"
+  },
+  "app_welcome_text_pt1": {
+    "message": "Du kan komme i gang ved å spesifisere attributter for appen (for eksempel appens startside, navigasjonskontroller og tidsavbrudd) i Konfigurering nedenfor. Når du har lagt inn nettadressen til appens startside, vises startsiden i stedet for denne teksten.",
+    "description": "Homepage welcome text, part 1"
+  },
+  "app_welcome_text_pt2": {
+    "message": "Når du er ferdig, kan du komprimere innholdet i appmappen i en zip-fil og eksportere appen din.",
+    "description": "Homepage welcome text, part 2"
+  },
+  "app_welcome_text_pt3": {
+    "message": "Hvis du trenger hjelp, kan du se ",
+    "description": "Homepage welcome text, part 3"
+  },
+  "app_welcome_text_pt4": {
+    "message": "Bruk Chrome-appbygger til å lage en Chrome-kioskapp.",
+    "description": "Homepage welcome text, part 4"
+  },
+  "upload_help_text": {
+    "message": "Hjelp til opplasting",
+    "description": "Text for small link to the upload help"
+  }
+}
